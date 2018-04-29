@@ -1,0 +1,9 @@
+F:\Visual Studio 2010\Projects\加权平均\加权平均\bin\Debug\加权平均.exe
+F:\Visual Studio 2010\Projects\加权平均\加权平均\bin\Debug\加权平均.pdb
+F:\Visual Studio 2010\Projects\加权平均\加权平均\obj\x86\Debug\加权平均.Form1.resources
+F:\Visual Studio 2010\Projects\加权平均\加权平均\obj\x86\Debug\加权平均.Properties.Resources.resources
+F:\Visual Studio 2010\Projects\加权平均\加权平均\obj\x86\Debug\加权平均.csproj.GenerateResource.Cache
+F:\Visual Studio 2010\Projects\加权平均\加权平均\obj\x86\Debug\加权平均.exe
+F:\Visual Studio 2010\Projects\加权平均\加权平均\obj\x86\Debug\加权平均.pdb
+F:\Visual Studio 2010\Projects\加权平均\加权平均\obj\x86\Debug\加权平均.csprojResolveAssemblyReference.cache
+F:\Visual Studio 2010\Projects\加权平均\加权平均\obj\x86\Debug\加权平均.csproj.CoreCompileInputs.cache
